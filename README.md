@@ -1,6 +1,6 @@
 # <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/879143510807306240.png?size=128" width="32px" height="32px" alt="HuTaoCry"></a> Hey! I'm banana :D
 
-### # <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/836236841426223174.png?size=128" width="32px" height="32px" alt="JessieHeart"></a> About Me
+### <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/836236841426223174.png?size=128" width="32px" height="32px" alt="JessieHeart"></a> About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently in my senior year in high school.\
