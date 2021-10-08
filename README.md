@@ -1,6 +1,6 @@
 # <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/879143510807306240.png?size=128" width="32px" height="32px" alt="HuTaoCry"></a> Hey! I'm banana :D
 
-### <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/836236841426223174.png?size=128" width="32px" height="32px" alt="JessieHeart"></a> About Me
+### <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/836236841426223174.png?size=128" width="24px" height="24px" alt="JessieHeart"></a> About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently in my senior year in high school.\
@@ -24,15 +24,15 @@
 
 <p align="center">
 <a href="https://github.com/itzbananauwu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itzbananauwu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itzbananauwu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### <a><img src="https://cdn.discordapp.com/emojis/842204546523463700.png?size=128" width="24px" height="24px" alt="VentiHeart"></a> Connect with Me
 
 <p align="center">
-<a href="https://discord.gg/vCMEmNJ"><img src="https://media.discordapp.net/attachments/520734295112024064/895297238484525056/discord_logo_icon_181298.png?width=473&height=473"/></a>
-<a href="https://twitter.com/itzbananauwu"><img src="https://media.discordapp.net/attachments/520734295112024064/895297536997343272/twitter-logo-vector-png-clipart-1.png?width=473&height=473"/></a>
+<a href="https://discord.gg/vCMEmNJ"><img src="https://media.discordapp.net/attachments/520734295112024064/895297238484525056/discord_logo_icon_181298.png?width=24&height=24"/></a>
+<a href="https://twitter.com/itzbananauwu"><img src="https://media.discordapp.net/attachments/520734295112024064/895297536997343272/twitter-logo-vector-png-clipart-1.png?width=24&height=24"/></a>
 <a href="mailto:datbananaboi21@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/eric.da.banana.boi/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
