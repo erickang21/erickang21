@@ -34,7 +34,7 @@
 
 <p align="center">
 <a href="https://github.com/erickang21">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itzbananauwu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erickang21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
