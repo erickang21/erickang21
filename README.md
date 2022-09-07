@@ -1,12 +1,21 @@
-# <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/879143510807306240.png?size=128" width="32px" height="32px" alt="HuTaoCry"></a> Hey! I'm banana :D
+# <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/875552439556780083.png?size=240&quality=lossless" width="32px" height="32px" alt="heart"></a> Hey! I'm Eric :D
 
-### <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/836236841426223174.png?size=128" width="24px" height="24px" alt="JessieHeart"></a> About Me
+**About Me**
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently in my senior year in high school.\
 🌱 &nbsp;I'm on track for learning more about Computer Science and the programming world.\
 ✍️ &nbsp;In my free time, I develop various apps. View a popular project [here](htps://dsc.gg/uwubot).\
 💬 &nbsp;Feel free to follow me on my socials if you want to know me better!\
+
+**Experience**
+✅ Discord Bot Developer (used in 25K servers)
+✅ Freelance Developer (from 2018-2020)
+✅ Finalist in UNHack 2021
+✅ 3rd place in Ignition Hacks 2021
+✅ Finalist in McMaster Engineering Scholarship Event
+✅ CS Club participant in high school
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
