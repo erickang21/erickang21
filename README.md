@@ -2,18 +2,19 @@
 
 **About Me**
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently in my senior year in high school.\
-🌱 &nbsp;I'm on track for learning more about Computer Science and the programming world.\
-✍️ &nbsp;In my free time, I develop various apps. View a popular project [here](htps://dsc.gg/uwubot).\
-💬 &nbsp;Feel free to follow me on my socials if you want to know me better!\
+👥 he/him, 18 years old, Chinese/Canadian
+💡 &nbsp; Undergraduate student in University of Waterloo, Honours Computer Science (Co-op)\
+🌱 &nbsp; Self-taught programming when I was 12\
+✍️ &nbsp; Hobbies include reading, collecting pens, and traveling\
+💬 &nbsp; Always open to making new friends!
 
 **Experience**
-✅ Discord Bot Developer (used in 25K servers)
-✅ Freelance Developer (from 2018-2020)
-✅ Finalist in UNHack 2021
-✅ 3rd place in Ignition Hacks 2021
-✅ Finalist in McMaster Engineering Scholarship Event
+
+✅ Discord Bot Developer (used in 25K servers)\
+✅ Freelance Developer (from 2018-2020)\
+✅ Finalist in UNHack 2021\
+✅ 3rd place in Ignition Hacks 2021\
+✅ Finalist in McMaster Engineering Scholarship Event\
 ✅ CS Club participant in high school
 
 
