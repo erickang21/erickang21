@@ -2,7 +2,7 @@
 
 **About Me**
 
-👥 &nbsp; he/him, 18 years old, Chinese/Canadian
+👥 &nbsp; he/him, 18 years old, Chinese/Canadian\
 💡 &nbsp; Undergraduate student in University of Waterloo, Honours Computer Science (Co-op)\
 🌱 &nbsp; Self-taught programming when I was 12\
 ✍️ &nbsp; Hobbies include reading, collecting pens, and traveling\
@@ -41,7 +41,6 @@
 ### <a><img src="https://cdn.discordapp.com/emojis/842204546523463700.png?size=128" width="24px" height="24px" alt="VentiHeart"></a> Socials
 
 <p align="center">
-<a href="https://www.linkedin.com/in/eric-kang-7052bb121/"><img src="24"/></a>
-<a href="https://twitter.com/itzbananauwu"><img src="https://cdn.discordapp.com/attachments/520734295112024064/1017058389911670834/Linkedin-logo-on-transparent--background-PNG.png"/></a>
-<a href="mailto:kang.eric.hi@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/eric-kang-7052bb121/"><img src="https://img.shields.io/badge/LinkedIn-Eric%20Kang-blue"/></a>
+<a href="mailto:kang.eric.hi@gmail.com"><img src="https://img.shields.io/badge/-kang.eric.hi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
