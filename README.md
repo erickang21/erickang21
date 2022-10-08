@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I keep all sorts of projects around here, ranging 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/erickang21">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erickang21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I keep all sorts of projects around here, ranging 
 
 ### <a><img src="https://cdn.discordapp.com/emojis/842204546523463700.png?size=128" width="24px" height="24px" alt="VentiHeart"></a> Socials
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/eric-kang-7052bb121/"><img src="https://img.shields.io/badge/LinkedIn-Eric%20Kang-blue"/></a>
 <a href="mailto:kang.eric.hi@gmail.com"><img src="https://img.shields.io/badge/-kang.eric.hi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
