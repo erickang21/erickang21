@@ -1,6 +1,6 @@
-# <img src="https://cdn.discordapp.com/emojis/875552439556780083.png?size=240&quality=lossless" width="32px" height="32px" alt="heart"> Hey! I'm Eric :D
+### <img src="https://cdn.discordapp.com/emojis/875552439556780083.png?size=240&quality=lossless" width="32px" height="32px" alt="heart"> Hey! I'm Eric :D
 
-### <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> About Me
+### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> About Me
 
 💡 &nbsp; Undergraduate student in University of Waterloo, Honours Computer Science (Co-op)\
 🌱 &nbsp; Self-taught programming when I was 12\
