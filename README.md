@@ -2,11 +2,10 @@
 
 **About Me**
 
-👥 &nbsp; he/him, 18 years old, Chinese/Canadian\
 💡 &nbsp; Undergraduate student in University of Waterloo, Honours Computer Science (Co-op)\
 🌱 &nbsp; Self-taught programming when I was 12\
+👥 &nbsp; he/him\
 ✍️ &nbsp; Hobbies include reading, collecting pens, and traveling\
-💬 &nbsp; Always open to making new friends!
 
 **Experience**
 
