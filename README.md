@@ -3,11 +3,12 @@
 ### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> About Me
 
 💡 &nbsp; Undergraduate student in University of Waterloo, Honours Computer Science (Co-op)\
+📜 &nbsp; IB Diploma Program Graduate
 🌱 &nbsp; Self-taught programming when I was 12\
 👥 &nbsp; he/him\
 ✍️ &nbsp; Hobbies include reading, collecting pens, and traveling
 
-**Experience**
+### <img src="https://cdn.discordapp.com/emojis/994711649187537047.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> Experience
 
 ✅ Discord Bot Developer (used in 25K servers)\
 ✅ Freelance Developer (from 2018-2020)\
