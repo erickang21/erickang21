@@ -20,11 +20,6 @@ Welcome to my GitHub profile! I keep all sorts of projects around here, ranging 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-### <img src="https://cdn.discordapp.com/emojis/994711649187537047.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> Experience
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -39,3 +34,5 @@ Welcome to my GitHub profile! I keep all sorts of projects around here, ranging 
 <a href="https://www.linkedin.com/in/eric-kang-7052bb121/"><img src="https://img.shields.io/badge/LinkedIn-Eric%20Kang-blue"/></a>
 <a href="mailto:kang.eric.hi@gmail.com"><img src="https://img.shields.io/badge/-kang.eric.hi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
