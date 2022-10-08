@@ -1,8 +1,10 @@
 # <img src="https://cdn.discordapp.com/emojis/875552439556780083.png?size=240&quality=lossless" width="32px" height="32px" alt="heart"> Hey! I'm Eric :D
 
+Welcome to my GitHub profile! I keep all sorts of projects around here, ranging from personal projects to freelance development to some useful code snippets. I'm open to any suggestions, PRs, and support. 
+
 ### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> About Me
 
-💡 &nbsp; Undergraduate student in University of Waterloo, Honours Computer Science (Co-op)\
+💡 &nbsp; CS '27 @ University of Waterloo\
 📜 &nbsp; IB Diploma Program Graduate\
 🌱 &nbsp; Self-taught programming when I was 12\
 👥 &nbsp; he/him\
@@ -19,14 +21,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### <img src="https://cdn.discordapp.com/emojis/994711649187537047.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> Experience
-
-✅ &nbsp; Developer of [uwu bot](https://top.gg/bot/520682706896683009)\
-✅ &nbsp; Freelance Developer (from 2018-2020)\
-✅ &nbsp; Finalist in UNHack 2021\
-✅ &nbsp; 3rd place in Ignition Hacks 2021\
-✅ &nbsp; Finalist in McMaster Engineering Scholarship Event\
-✅ &nbsp; CS Club participant in high school
-
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
