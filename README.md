@@ -10,12 +10,12 @@
 
 ### <img src="https://cdn.discordapp.com/emojis/994711649187537047.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> Experience
 
-✅ Discord Bot Developer (used in 25K servers)\
-✅ Freelance Developer (from 2018-2020)\
-✅ Finalist in UNHack 2021\
-✅ 3rd place in Ignition Hacks 2021\
-✅ Finalist in McMaster Engineering Scholarship Event\
-✅ CS Club participant in high school
+✅ &nbsp; Developer of [uwu bot](https://top.gg/bot/520682706896683009)\
+✅ &nbsp; Freelance Developer (from 2018-2020)\
+✅ &nbsp; Finalist in UNHack 2021\
+✅ &nbsp; 3rd place in Ignition Hacks 2021\
+✅ &nbsp; Finalist in McMaster Engineering Scholarship Event\
+✅ &nbsp; CS Club participant in high school
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
