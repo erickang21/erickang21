@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I keep all sorts of projects around here, ranging 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
 **Cloud Computing:**
-![Google Cloud](https://img.shields.io/badge/-Google Cloud-05122A?style=flat&logo=CSS)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=CSS)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=CSS)&nbsp;
 
 **Database:**
