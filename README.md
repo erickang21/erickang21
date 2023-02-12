@@ -1,14 +1,22 @@
-# <img src="https://cdn.discordapp.com/emojis/875552439556780083.png?size=240&quality=lossless" width="32px" height="32px" alt="heart"> Hey! I'm Eric :D
+# <img src="https://cdn.discordapp.com/emojis/875552439556780083.png?size=240&quality=lossless" width="32px" height="32px" alt="heart"> hello! i'm eric :)
 
 Welcome to my GitHub profile! I keep all sorts of projects around here, ranging from personal projects to freelance development to some useful code snippets. I'm open to any suggestions, PRs, and support. 
 
-### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> About Me
+### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> about me
 
-💡 &nbsp; CS '27 @ University of Waterloo\
-📜 &nbsp; IB Diploma Program Graduate\
-🌱 &nbsp; Self-taught programming when I was 12\
 👥 &nbsp; he/him\
+💡 &nbsp; 1b term; studying cs @ university of waterloo\
+📜 &nbsp; graduated with ib diploma\
+🌱 &nbsp; self-taught programmer with 6+ years of experience\
 ✍️ &nbsp; Hobbies include reading, collecting pens, and traveling
+
+### <img src="https://cdn.discordapp.com/emojis/1046905454581788692.png?size=240&quality=lossless" width="32px" height="32px" alt="gasp"> interests
+<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="32px" height="32px" alt="arrow"> coding projects
+<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="32px" height="32px" alt="arrow"> video games (genshin impact!!)
+<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="32px" height="32px" alt="gasp"> content creation/video editing
+<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="32px" height="32px" alt="arrow"> collecting pens
+<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="32px" height="32px" alt="arrow"> travelling
+
 
 ### 🛠 &nbsp;Tech Stack
 
