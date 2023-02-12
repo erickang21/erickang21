@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I keep all sorts of projects around here, ranging 
 💡 &nbsp; 1b term; studying cs @ university of waterloo\
 📜 &nbsp; graduated with ib diploma\
 🌱 &nbsp; self-taught programmer with 6+ years of experience\
-✍️ &nbsp; Hobbies include reading, collecting pens, and traveling
 
 ### <img src="https://cdn.discordapp.com/emojis/1046905454581788692.png?size=240&quality=lossless" width="32px" height="32px" alt="gasp"> interests
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> coding projects\
