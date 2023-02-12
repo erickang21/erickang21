@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I keep all sorts of projects around here, ranging 
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> travelling
 
 
-### 🛠 &nbsp;Tech Stack
+### <img src="https://cdn.discordapp.com/emojis/911123538675650580.webp?size=240&quality=lossless" width="32px" height="32px" alt="klee"> Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
