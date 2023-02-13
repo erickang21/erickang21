@@ -48,8 +48,7 @@ data analysis:\
 ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
 
-### <img src="https://cdn.discordapp.com/emojis/852557017254985768.png?size=240&quality=lossless" width="32px" height="32px" alt="venti">
-### ⚙️ &nbsp;github analytics 
+### <img src="https://cdn.discordapp.com/emojis/852557017254985768.png?size=240&quality=lossless" width="32px" height="32px" alt="venti">       github analytics 
 
 <p align="left">
 <a href="https://github.com/erickang21">
@@ -60,8 +59,9 @@ data analysis:\
 ### <a><img src="https://cdn.discordapp.com/emojis/842204546523463700.png?size=128" width="24px" height="24px" alt="VentiHeart"></a> socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/eric-kang-7052bb121/"><img src="https://img.shields.io/badge/LinkedIn-Eric%20Kang-blue"/></a>
-<a href="mailto:kang.eric.hi@gmail.com"><img src="https://img.shields.io/badge/-kang.eric.hi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/eric-kang-7052bb121/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/></a>
+<a href="https://erickang.tk/"><img src="https://img.shields.io/badge/website-000000?style=plastic&logo=About.me&logoColor=white"/></a>
+<a href="mailto:eric.kang@uwaterloo.ca"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white"/></a>
 </p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
