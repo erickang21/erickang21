@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I keep all sorts of projects around here, ranging from personal projects to freelance development to some useful code snippets. I'm open to any suggestions, PRs, and support. 
 
 
-### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> about me
+<img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> ### about me
 
 👥 &nbsp; he/him\
 💡 &nbsp; 1b term; studying cs @ university of waterloo\
