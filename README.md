@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I keep all sorts of projects around here, ranging 
 ### <img src="https://cdn.discordapp.com/emojis/911123538675650580.webp?size=240&quality=lossless" width="32px" height="32px" alt="klee"> Tech Stack
 
 **App/Back-end Development:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
