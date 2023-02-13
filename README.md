@@ -63,9 +63,5 @@ data analysis:
 <a href="mailto:eric.kang@uwaterloo.ca"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white"/></a>
 </p>
 
-### <img src="https://cdn.discordapp.com/emojis/1007946413050695731.webp?size=240&quality=lossless" width="32px" height="32px" alt="Music"> current favorite song
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5crQsbgB1YjsbV65ITGf7N?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
