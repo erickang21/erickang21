@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I keep all sorts of projects around here, ranging from personal projects to freelance development to some useful code snippets. I'm open to any suggestions, PRs, and support. 
 
-<hr>
+
 ### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> about me
 
 👥 &nbsp; he/him\
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I keep all sorts of projects around here, ranging 
 📜 &nbsp; graduated with ib diploma\
 🌱 &nbsp; self-taught programmer with 6+ years of experience
 
-<hr>
+
 ### <img src="https://cdn.discordapp.com/emojis/1046905454581788692.png?size=240&quality=lossless" width="32px" height="32px" alt="gasp"> interests
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> coding projects\
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> video games (genshin impact!!)\
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I keep all sorts of projects around here, ranging 
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> collecting pens\
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> travelling
 
-<hr>
+
 ### <img src="https://cdn.discordapp.com/emojis/911123538675650580.webp?size=240&quality=lossless" width="32px" height="32px" alt="klee"> tech stack
 
 app/back-end development:\
@@ -50,7 +50,7 @@ data analysis:\
 ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
 
-<hr>
+
 ### <img src="https://cdn.discordapp.com/emojis/852557017254985768.png?size=240&quality=lossless" width="32px" height="32px" alt="venti"> github analytics 
 
 <p align="left">
@@ -59,7 +59,6 @@ data analysis:\
 </a>
 </p>
 
-<hr>
 ### <a><img src="https://cdn.discordapp.com/emojis/842204546523463700.png?size=128" width="24px" height="24px" alt="VentiHeart"></a> socials
 
 <p align="left">
@@ -68,5 +67,5 @@ data analysis:\
 <a href="mailto:eric.kang@uwaterloo.ca"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white"/></a>
 </p>
 
-<hr>
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
