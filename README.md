@@ -44,7 +44,7 @@ database:
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)&nbsp;\
 data analysis:
 ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)&nbsp;
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)&nbsp;\
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)&nbsp;
 
 
 ### <img src="https://cdn.discordapp.com/emojis/852557017254985768.png?size=240&quality=lossless" width="32px" height="32px" alt="venti"> github analytics 
