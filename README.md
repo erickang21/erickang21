@@ -33,12 +33,12 @@ Welcome to my GitHub profile! I keep all sorts of projects around here, ranging 
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)&nbsp;
 
 **Cloud Computing:**
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=CSS)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=CSS)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)&nbsp;
 
 **Database:**
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=CSS)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=CSS)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
