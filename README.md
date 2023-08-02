@@ -5,16 +5,24 @@ yay! you found my github page! as someone who loves to play around with code, yo
 
 ### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> about me
 
-👥 &nbsp; he/him\
 💡 &nbsp; 1b term; studying cs @ university of waterloo\
 📜 &nbsp; graduated with ib diploma\
 🌱 &nbsp; self-taught programmer with 6+ years of experience
 
+### <img src="https://cdn.discordapp.com/emojis/1136126766684049589.webp?size=240&quality=lossless" width="32px" height="32px" alt="pointup"> projects
+<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **uwu bot**\
+An anime-focused [Discord bot](https://top.gg/bot/520682706896683009) that serves over 26,000 servers and 1.3 million users. Developed in Node.js over several years, with love :)\
+<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **BananAPI**
+A REST API that focuses on image manipulation using the Canvas library in Node.js.\
+<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **Food Finder**\
+A dynamic website that helps you find the perfect restaurant for any situation. Made in HTML, CSS, and JavaScript.\
+<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **banana's hideout**\
+A server dedicated for uwu bot and aspiring programmers to reach their goal of a career in Computer Science.\
 
 ### <img src="https://cdn.discordapp.com/emojis/1046905454581788692.png?size=240&quality=lossless" width="32px" height="32px" alt="gasp"> interests
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> coding projects\
-<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> video games (genshin impact!!)\
-<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> music by hatsune miku (and vocaloid)\
+<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> video games (honkai: star rail, genshin impact, minecraft, brawl stars)\
+<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> k-pop and vocaloid (any hatsune miku: colorful stage enjoyers?)\
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="gasp"> content creation/video editing\
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> collecting pens\
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> travelling
