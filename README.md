@@ -12,7 +12,7 @@ yay! you found my github page! as someone who loves to play around with code, yo
 ### <img src="https://cdn.discordapp.com/emojis/1136126766684049589.webp?size=240&quality=lossless" width="32px" height="32px" alt="pointup"> projects
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **uwu bot**\
 An anime-focused [Discord bot](https://top.gg/bot/520682706896683009) that serves over 26,000 servers and 1.3 million users. Developed in Node.js over several years, with love :)\
-<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **BananAPI**
+<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **BananAPI**\
 A REST API that focuses on image manipulation using the Canvas library in Node.js.\
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **Food Finder**\
 A dynamic website that helps you find the perfect restaurant for any situation. Made in HTML, CSS, and JavaScript.\
