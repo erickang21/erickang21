@@ -5,7 +5,7 @@ yay! you found my github page! as someone who loves to play around with code, yo
 
 ### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> about me
 
-💡 &nbsp; 2a term; studying cs @ university of waterloo\
+💡 &nbsp; incoming 3a term; studying cs @ university of waterloo\
 📜 &nbsp; graduated with ib diploma\
 🌱 &nbsp; self-taught programmer with 6+ years of experience
 
