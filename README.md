@@ -18,20 +18,23 @@ A [GeoGuessr-inspired game](https://transitguesser.me) designed to promote susta
 A server inspired by uwu bot's theme, focusing on mentorship for individuals pursuing a career in Computer Science.\
 
 ### <img src="https://cdn.discordapp.com/emojis/1046905454581788692.png?size=240&quality=lossless" width="32px" height="32px" alt="gasp"> interests
-- kpop\
-- gaming (brawl stars, honkai: star rail, genshin impact, clash of clans, etc)\
+- kpop
+- gaming (brawl stars, honkai: star rail, genshin impact, clash of clans, etc)
 - coding projects
 - live streaming/video editing
 
 ### <img src="https://cdn.discordapp.com/emojis/911123538675650580.webp?size=240&quality=lossless" width="32px" height="32px" alt="klee"> tech stack
 
 app/back-end development:
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=plastic)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)&nbsp;\
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=plastic)&nbsp;
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)&nbsp;
+
+
 web/front-end development:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)&nbsp;
