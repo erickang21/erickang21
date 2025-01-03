@@ -73,9 +73,7 @@ A server inspired by uwu bot's theme, focusing on mentorship for individuals pur
 
 <p align="left">
 <a href="https://www.linkedin.com/in/eric-kang-7052bb121/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/></a>
-<a href="https://erickang.tk/"><img src="https://img.shields.io/badge/website-000000?style=plastic&logo=About.me&logoColor=white"/></a>
 <a href="mailto:eric.kang@uwaterloo.ca"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white"/></a>
 </p>
-
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
