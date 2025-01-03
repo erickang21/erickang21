@@ -5,17 +5,18 @@ yay! you found my github page! as someone who loves to play around with code, yo
 
 ### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> about me
 
-💡 &nbsp; 3a computer science @ university of waterloo\
-📜 &nbsp; 3 internship experiences, including start-ups\
-🌱 &nbsp; self-taught programmer with 8+ years of experience
+- 3a computer science @ university of waterloo
+- 3 internship experiences, including start-ups and mid-sized companies
+- self-taught programmer with 8+ years of experience
+- 3+ hackathon wins and several full-stack passion projects
 
 ### <img src="https://cdn.discordapp.com/emojis/1136126766684049589.webp?size=240&quality=lossless" width="32px" height="32px" alt="pointup"> projects
-<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **uwu bot**\
-An anime-focused [Discord bot](https://top.gg/bot/520682706896683009) that serves over 26,000 servers and 1.4 million users. Developed in Node.js over several years, with love :)\
-<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **Transit Guesser**\
-A [GeoGuessr-inspired game](https://transitguesser.me) designed to promote sustainable modes of transportation by familiarizing users with local transit.\
-<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **uwu café**\
-A server inspired by uwu bot's theme, focusing on mentorship for individuals pursuing a career in Computer Science.\
+- **uwu bot**\
+An anime-focused [Discord bot](https://top.gg/bot/520682706896683009) that serves over 26,000 servers and 1.4 million users, receiving constant updates.
+- **Transit Guesser**\
+A [GeoGuessr-inspired game](https://transitguesser.me) designed to promote sustainable modes of transportation by familiarizing users with local transit.
+- **uwu café**\
+A server inspired by uwu bot's theme, focusing on mentorship for individuals pursuing a career in Computer Science.
 
 ### <img src="https://cdn.discordapp.com/emojis/1046905454581788692.png?size=240&quality=lossless" width="32px" height="32px" alt="gasp"> interests
 - kpop
