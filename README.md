@@ -5,21 +5,21 @@ yay! you found my github page! as someone who loves to play around with code, yo
 
 ### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> about me
 
-💡 &nbsp; incoming 3a term; studying cs @ university of waterloo\
-📜 &nbsp; graduated with ib diploma\
-🌱 &nbsp; self-taught programmer with 6+ years of experience
+💡 &nbsp; 3a computer science @ university of waterloo\
+📜 &nbsp; 3 internship experiences
+🌱 &nbsp; self-taught programmer with 8+ years of experience
 
 ### <img src="https://cdn.discordapp.com/emojis/1136126766684049589.webp?size=240&quality=lossless" width="32px" height="32px" alt="pointup"> projects
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **uwu bot**\
-An anime-focused [Discord bot](https://top.gg/bot/520682706896683009) that serves over 26,000 servers and 1.3 million users. Developed in Node.js over several years, with love :)\
-<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **BananAPI**\
-A REST API that focuses on image manipulation using the Canvas library in Node.js.\
-<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **Food Finder**\
-A dynamic website that helps you find the perfect restaurant for any situation. Made in HTML, CSS, and JavaScript.\
-<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **banana's hideout**\
-A server dedicated for uwu bot and aspiring programmers to reach their goal of a career in Computer Science.\
+An anime-focused [Discord bot](https://top.gg/bot/520682706896683009) that serves over 26,000 servers and 1.4 million users. Developed in Node.js over several years, with love :)\
+<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **Transit Guesser**\
+A [GeoGuessr-inspired game](https://transitguesser.me) designed to promote sustainable modes of transportation by familiarizing users with local transit.\
+<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> **uwu café**\
+A server inspired by uwu bot's theme, focusing on mentorship for individuals pursuing a career in Computer Science.\
 
 ### <img src="https://cdn.discordapp.com/emojis/1046905454581788692.png?size=240&quality=lossless" width="32px" height="32px" alt="gasp"> interests
+- kpop
+- gaming
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> coding projects\
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> video games (honkai: star rail, genshin impact, minecraft, brawl stars)\
 <img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> k-pop and vocaloid (any hatsune miku: colorful stage enjoyers?)\
