@@ -6,7 +6,7 @@ yay! you found my github page! as someone who loves to play around with code, yo
 ### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> about me
 
 💡 &nbsp; 3a computer science @ university of waterloo\
-📜 &nbsp; 3 internship experiences
+📜 &nbsp; 3 internship experiences, including start-ups
 🌱 &nbsp; self-taught programmer with 8+ years of experience
 
 ### <img src="https://cdn.discordapp.com/emojis/1136126766684049589.webp?size=240&quality=lossless" width="32px" height="32px" alt="pointup"> projects
@@ -18,15 +18,10 @@ A [GeoGuessr-inspired game](https://transitguesser.me) designed to promote susta
 A server inspired by uwu bot's theme, focusing on mentorship for individuals pursuing a career in Computer Science.\
 
 ### <img src="https://cdn.discordapp.com/emojis/1046905454581788692.png?size=240&quality=lossless" width="32px" height="32px" alt="gasp"> interests
-- kpop
-- gaming
-<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> coding projects\
-<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> video games (honkai: star rail, genshin impact, minecraft, brawl stars)\
-<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> k-pop and vocaloid (any hatsune miku: colorful stage enjoyers?)\
-<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="gasp"> content creation/video editing\
-<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> collecting pens\
-<img src="https://cdn.discordapp.com/emojis/849398611888570369.png?size=240&quality=lossless" width="16px" height="16px" alt="arrow"> travelling
-
+- kpop\
+- gaming (brawl stars, honkai: star rail, genshin impact, clash of clans, etc)\
+- coding projects
+- live streaming/video editing
 
 ### <img src="https://cdn.discordapp.com/emojis/911123538675650580.webp?size=240&quality=lossless" width="32px" height="32px" alt="klee"> tech stack
 
