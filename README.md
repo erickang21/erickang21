@@ -6,7 +6,7 @@ yay! you found my github page! as someone who loves to play around with code, yo
 ### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> about me
 
 💡 &nbsp; 3a computer science @ university of waterloo\
-📜 &nbsp; 3 internship experiences, including start-ups
+📜 &nbsp; 3 internship experiences, including start-ups\
 🌱 &nbsp; self-taught programmer with 8+ years of experience
 
 ### <img src="https://cdn.discordapp.com/emojis/1136126766684049589.webp?size=240&quality=lossless" width="32px" height="32px" alt="pointup"> projects
