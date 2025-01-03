@@ -61,19 +61,20 @@ A server inspired by uwu bot's theme, focusing on mentorship for individuals pur
 [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
+### <a><img src="https://cdn.discordapp.com/emojis/842204546523463700.png?size=128" width="32px" height="32px" alt="VentiHeart"></a> socials
+
+[![LinkedIn: Eric Kang](https://custom-icon-badges.demolab.com/badge/LinkedIn:%20Eric%20Kang-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/eric-kang-7052bb121/)\
+[![Spotify: bananaboy2121](https://img.shields.io/badge/Spotify:%20bananaboy2121-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/bananaboy2121?si=0de3d476401744c2)\
+[![YouTube: banana bs](https://img.shields.io/badge/YouTube:%20banana%20bs-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@bananabs)\
+[![Twitch: itzbanana69](https://img.shields.io/badge/Twitch:%20itzbanana69-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/itzbanana69)\
+[![Email: eric.kang@uwaterloo.ca](https://img.shields.io/badge/Email:%20eric.kang@uwaterloo.ca-D14836?logo=gmail&logoColor=white)](mailto:eric.kang@uwaterloo.ca)
+
 ### <img src="https://cdn.discordapp.com/emojis/852557017254985768.png?size=240&quality=lossless" width="32px" height="32px" alt="venti"> github analytics 
 
 <p align="left">
 <a href="https://github.com/erickang21">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erickang21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-</p>
-
-### <a><img src="https://cdn.discordapp.com/emojis/842204546523463700.png?size=128" width="32px" height="32px" alt="VentiHeart"></a> socials
-
-<p align="left">
-<a href="https://www.linkedin.com/in/eric-kang-7052bb121/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:eric.kang@uwaterloo.ca"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white"/></a>
 </p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
