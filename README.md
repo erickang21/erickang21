@@ -5,18 +5,18 @@ yay! you found my github page! as someone who loves to play around with code, yo
 
 ### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> about me
 
-- 3a computer science @ university of waterloo
+- term 3a computer science @ university of waterloo
 - 3 internship experiences, including start-ups and mid-sized companies
 - self-taught programmer with 8+ years of experience
 - 3+ hackathon wins and several full-stack passion projects
 
-### <img src="https://cdn.discordapp.com/emojis/1136126766684049589.webp?size=240&quality=lossless" width="32px" height="32px" alt="pointup"> projects
+### <img src="https://cdn.discordapp.com/emojis/1136126766684049589.webp?size=240&quality=lossless" width="32px" height="32px" alt="pointup"> notable projects
 - **uwu bot:**
 An anime-focused [Discord bot](https://top.gg/bot/520682706896683009) that serves over 26,000 servers and 1.4 million users, receiving constant updates.\
-[(GitHub Project)](https://github.com/erickang21/uwu-bot-v4)
+[(⪼ GitHub Project)](https://github.com/erickang21/uwu-bot-v4)
 - **Transit Guesser:**
 A [GeoGuessr-inspired game](https://transitguesser.me) designed to promote sustainable modes of transportation by familiarizing users with local transit.\
-[(GitHub Project)](https://github.com/erickang21/transit-guesser)
+[(⪼ GitHub Project)](https://github.com/erickang21/transit-guesser)
 - **uwu café:**
 A server inspired by uwu bot's theme, focusing on mentorship for individuals pursuing a career in Computer Science.
 
