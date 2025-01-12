@@ -19,12 +19,12 @@ A [GeoGuessr-inspired game](https://transitguesser.me) designed to promote susta
 [(⪼ GitHub Project)](https://github.com/erickang21/transit-guesser)
 - **uwu café:**
 A Discord server inspired by uwu bot's theme, focusing on mentorship for individuals pursuing a career in Computer Science.
-- **BananAPI**
-A public REST API built in Node.js with key-based authentication, allowing users to manipulate images using the Canvas library.
+- **BananAPI:**
+A public REST API built in Node.js with key-based authentication, allowing users to manipulate images using the Canvas library.\
 [(⪼ GitHub Project)](https://github.com/erickang21/bananapi)
-- **Personal Website**
-A dynamic personal website built using React, reflecting my current projects, accomplishments, and interests.
-(NOTE: Currently undergoing a revamp and is not online.)
+- **Personal Website:**
+A dynamic personal website built using React, reflecting my current projects, accomplishments, and interests.\
+(NOTE: Currently undergoing a revamp and is not online.)\
 [(⪼ GitHub Project)](https://github.com/erickang21/eric-website-2)
 
 
