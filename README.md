@@ -1,6 +1,6 @@
 # <img src="https://cdn.discordapp.com/emojis/875552439556780083.png?size=240&quality=lossless" width="32px" height="32px" alt="heart"> hello! i'm eric :)
 
-yay! you found my github page! as someone who loves to play around with code, you can see repositories for side projects or just fun experiments.
+welcome to my page!
 
 
 ### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> about me
