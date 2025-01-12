@@ -5,7 +5,7 @@ yay! you found my github page! as someone who loves to play around with code, yo
 
 ### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> about me
 
-- term 3a computer science @ university of waterloo
+- term 3a computer science + artificial intelligence @ university of waterloo
 - 3 internship experiences, including start-ups and mid-sized companies
 - self-taught programmer with 8+ years of experience
 - 3+ hackathon wins and several full-stack passion projects
@@ -18,7 +18,16 @@ An anime-focused [Discord bot](https://top.gg/bot/520682706896683009) that serve
 A [GeoGuessr-inspired game](https://transitguesser.me) designed to promote sustainable modes of transportation by familiarizing users with local transit.\
 [(⪼ GitHub Project)](https://github.com/erickang21/transit-guesser)
 - **uwu café:**
-A server inspired by uwu bot's theme, focusing on mentorship for individuals pursuing a career in Computer Science.
+A Discord server inspired by uwu bot's theme, focusing on mentorship for individuals pursuing a career in Computer Science.
+- **BananAPI**
+A public REST API built in Node.js with key-based authentication, allowing users to manipulate images using the Canvas library.
+[(⪼ GitHub Project)](https://github.com/erickang21/bananapi)
+- **Personal Website**
+A dynamic personal website built using React, reflecting my current projects, accomplishments, and interests.
+(NOTE: Currently undergoing a revamp and is not online.)
+[(⪼ GitHub Project)](https://github.com/erickang21/eric-website-2)
+
+
 
 ### <img src="https://cdn.discordapp.com/emojis/1046905454581788692.png?size=240&quality=lossless" width="32px" height="32px" alt="gasp"> interests
 - kpop
