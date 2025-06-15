@@ -2,6 +2,7 @@
 
 welcome to my page!
 
+feel free to check out my personal website too: https://erickang.dev/
 
 ### <img src="https://cdn.discordapp.com/emojis/994711646985527397.png?size=128&quality=lossless" width="32px" height="32px" alt="heart"> about me
 
