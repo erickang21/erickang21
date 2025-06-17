@@ -7,8 +7,7 @@
 </p>
 
 ---
-
-##  About Me
+## <img alt="wave" src="https://i.ibb.co/4nHx152f/1062929646859063306-1.png" width=28 height=28 valign="middle" /> &nbsp;About Me
 - ✅ **Successful founder and [app dev](https://top.gg/bot/520682706896683009) for [1.5M users](https://i.ibb.co/d4hrrpLD/Screenshot-2025-06-16-at-8-33-13-PM.png)**
 - <img src="https://i.ibb.co/6cLGMSGv/verifieddeveloper.webp" width=20 height=20 valign="middle" /> **VERIFIED Discord bot developer**
 - 🌱 **Owner of mentorship program for 1.2k+ aspiring CS students**
@@ -17,10 +16,9 @@
 - 🧠 8+ years of programming experience, passionate about AI
 - 🛠️ Passionate about full-stack apps and Discord bots
 
-
 ---
 
-## Notable Projects
+## <img alt="briefcase" src="https://i.ibb.co/6dx4vjj/corpa.png" width=28 height=28 valign="middle" /> &nbsp;Notable Projects
 #### [╭₊˚ uwu bot](https://top.gg/bot/520682706896683009) - A crowd favorite anime-themed Discord bot that serves 26k+ servers and 1.4M+ users. ([</> GitHub](https://github.com/erickang21/uwu-bot-v4)) 
 
 #### [╭₊˚ Transit Guesser](https://transitguesser.me) - GeoGuessr but for public transit, encouraging cleaner ways to travel! ([</> GitHub](https://github.com/erickang21/transit-guesser))
@@ -32,8 +30,7 @@
 #### [╭₊˚ Personal Website](https://erickang.dev)- A site showcasing projects, tech stack, and some easter eggs if you scroll to the bottom :) ([</> GitHub](https://github.com/erickang21/eric-website-2))
 
 ---
-
-## Tech Stack
+## <img alt="card with symbol" src="https://i.ibb.co/XkfLfB2x/943645932904415272.png" width=28 height=28 valign="middle" /> &nbsp;Tech Stack
 
 ### Programming Languages
 C++ • C • Python • Java • JavaScript • TypeScript
@@ -49,7 +46,7 @@ MongoDB • Postgres • MySQL • DynamoDB • Oracle
 
 ---
 
-## Interests
+## <img alt="vibing to music" src="https://i.ibb.co/JR4FfkfY/1007946413050695731.png" width=28 height=28 valign="middle" /> &nbsp;Interests
 
 - 🎵 K-pop
 - 🎮 Gaming: [Brawl Stars](https://brawltracker.com/stats/player/C00YUR8), Honkai: Star Rail, Clash of Clans, [Genshin Impact](https://enka.network/u/729198314/)
