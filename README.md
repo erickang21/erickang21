@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <strong>🚀 Founder + Dev for 1.5M • 💻 Passionate Full-Stack Dev • 🌱 8+ years of experience • 🏆 3+ Hackathon Wins</strong><br/><br/>
+  <strong>Founder + Dev for 1.5M • Passionate Full-Stack Dev • 8+ years of experience</strong><br/><br/>
   <strong>🌐 Visit my website: <a href="https://erickang.dev/">erickang.dev</a></strong><br/>
 </p>
 
